@@ -1,5 +1,10 @@
 
-assets/htworld-logo.png
+
+<p align="center">
+    <img src="assets/images/htworld-logo.png" alt="HTWORLD" width="360">
+</p>
+
+
 
 ## Information technology consulting services
 
