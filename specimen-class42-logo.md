@@ -1,4 +1,4 @@
-[assets/htworld-logo.png](https://raw.githubusercontent.com/HTWORLD/htworld-governance/main/assets/htworld-logo.png)
+[assets/htworld-logo.png]([https://raw.githubusercontent.com/HTWORLD/htworld-governance/main/assets/htworld-logo.png](https://raw.githubusercontent.com/HTWORLD-INC/htworld-governance/refs/heads/main/assets/htworld-logo.png))
 
 ## Information technology consulting services
 
