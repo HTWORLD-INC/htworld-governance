@@ -1,6 +1,3 @@
-[htworld-governance/assets/htworld-logo.png
-](https://htworld-inc.github.io/htworld-governance/assets/htworld-logo.png
-)
 
 assets/htworld-logo.png
 
