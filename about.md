@@ -1,0 +1,3 @@
+# About HTWORLD
+
+HTWORLD is a privately held enterprise operating across professional services, technical consulting, and internally managed business operations. Established in 2010, HTWORLD functions as a source brand for a growing portfolio of activities conducted through affiliated entities and internal divisions, with a focus on disciplined execution, long-term value creation, and responsible expansion. HTWORLD’s structure supports both client-facing services and asset-backed operations, allowing the enterprise to evolve naturally as capabilities, opportunities, and operational needs develop over time.
